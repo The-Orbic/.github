@@ -1,7 +1,4 @@
 # Welcome to The Orbic
-
-![Orbic Banner](https://via.placeholder.com/800x200?text=Sky-Rocket+Your+Business+With+Orbic)
-
 ## About Us
 The Orbic is a forward-thinking software technology company pioneering the next generation of digital solutions. We craft feature-rich software serving hundreds of thousands of customers worldwide, with AI integration across all our products and platforms to simplify and enhance user experiences.
 
