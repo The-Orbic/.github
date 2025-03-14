@@ -13,11 +13,11 @@ The Orbic is a forward-thinking software technology company pioneering the next 
 - **Digital Transformation** - Modernize your business processes
 
 ## Technologies We Work With
-- Frontend: React.js, Angular, Vue.js, Next.js, TypeScript
-- Backend: Node.js, Python, Java, .NET
-- Mobile: React Native, Flutter, Swift, Kotlin
-- Database: SQL, NoSQL, MongoDB, PostgreSQL
-- Cloud: AWS, Azure, Google Cloud
+- Frontend: React.js, Astro, Next.js, TypeScript
+- Backend: Node.js, Python
+- Mobile: React Native
+- Database: SQL, NoSQL, MongoDB, PostgreSQL, GraphQL
+- Cloud: AWS, Azure, Google Cloud, Cloudflare
 - AI/ML: TensorFlow, PyTorch, OpenAI integration
 - DevOps: Docker, Kubernetes, CI/CD pipelines
 - Design: Figma, Adobe Creative Suite
